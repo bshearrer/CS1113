@@ -1,0 +1,38 @@
+Brandon Shearrer
+CS 1113 - 60968
+Lab #6: Working with Arrays
+
+Q1) double[] myDoubles;
+
+Q2) 0 
+
+Q3) null
+
+Q4) int y[] = {0, 1, 2}
+	for (int i=0; i<y.length; i++)
+
+Q5) a[i] = 0
+	a[i] = 1
+	a[i] = 2
+	a[i] = 3
+
+Q6) It started at a[i] = 1 instead of zero.
+
+Q7) for (int i = 3; i>=0;i--)
+
+Q8) f"(1) = f(0) - 2f(1) + f(2) = 18 - 38 + 23 = 3
+	f"(2) = f(1) - 2f(2) + f(3) = 19 - 46 + 45 = 18
+	f"(3) = f(2) - 2f(3) + f(4) = 23 - 90 + 7  = -60
+	
+Q9) a. String s = "fun string";
+	b. String array[]  = new String[1000];
+		for(int i = 0;i<array.length; i++ )
+		{
+			array[i] = s;
+		}
+
+Q10) Only one string is created.
+
+
+
+

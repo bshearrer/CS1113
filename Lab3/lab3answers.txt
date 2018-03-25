@@ -1,0 +1,48 @@
+// Brandon Shearrer
+// CS 1113 - 60968
+// Lab3
+
+Q1) Camel case is a way to format names of multiple words. Words are joined together
+    as one single word, and then each of the words first letter is capitalized.
+
+Q2) Class names are mixed with no spaces and the beginning of each new word will have
+    a capital letter. Variable names cannot start with an underscore and are supposed
+    to be short, starting with a lowercase letter.
+
+Q3) Standard indentation for curly braces should be that the braces are on their own
+    line and whatever is inside the braces should be inserted further in the text.
+
+Q4) Proper indentation is important in Java code because it makes it readable for human
+    eyes, and therefore more accessible to see bugs or faulty code that must be fixed.
+
+Q5) The common way to specify a constant value in Java is to set the variable
+    equal to whatever value is chosen. Example: int a = 7;
+
+Q6) Unnamed constants in java are usually acceptable as long as they meet the
+    required formatting in java.
+
+
+Q7) a, b, c, d
+
+Q8) a. b%3   = integer
+    b. b+4   = integer
+    c. b*2.0 = double
+    d. c/2   = double
+    e. b+c   = double
+
+Q9) A custom class can be more helpful because you can store information to specific
+    accounts and it is easier to read for the user.
+
+Q10) A class is more like a template, and an object is more like a specific thing.
+
+Q11) Static methods can use a variable without an object, and it is associated with
+     the class directly rather than just an instance of it. Non-static variables
+     are declared without using the static keyword, and a separate copy of each
+     object variable is created for each instance of a class.
+
+Q12)
+public class Car
+{
+  	public static int totalCarsManufactured;
+    private double carModel;
+}

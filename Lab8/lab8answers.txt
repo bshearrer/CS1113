@@ -1,0 +1,21 @@
+Brandon Shearrer
+Lab 8 Answers
+CRN: 60968
+
+Q1. double[][] arr2d = new double[4][9]
+
+Q2. 0 1 0 0 0 0 0 0 0
+	0 7 0 0 0 0 0 0 0
+	0 0 0 4 0 8 0 0 0
+	0 0 0 0 0 0 0 0 0
+
+Q3. for (int r=0; r < arr2d.length; r++)
+    {
+		for (int c=0; c < arr2d[r].length; c++)
+		{
+		arr2d[r][c]++;
+		}
+    }
+
+Q4. int[][][] b = new int[10][10][10];
+				

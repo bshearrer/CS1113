@@ -1,0 +1,26 @@
+Brandon Shearrer 
+Lab 7 answers
+60968
+
+Q1) ArrayList<Student> studentList = new ArrayList<Student>;
+
+Q2) studentList.remove(stringList.length-1);
+
+Q3) autoboxing is a feature in java that allows you to store primitive types in an Arraylist.
+
+Q4) Double
+
+Q5)
+	for(int i=0; i<myList.length(); i++)
+	{
+		System.out.print(myList[i]);
+	}
+
+Q6)
+	for(String elements: myList)
+		{
+			System.out.print(elements);
+		}
+
+Q7) HashMap<String, Integer> plants = new HashMap<String, Integer>();
+	string plantVal = plant.get("grass");

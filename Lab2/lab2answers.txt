@@ -1,0 +1,33 @@
+Brandon Shearrer 60968
+Q1) After typing pwd "/home/bshearr " was printed
+
+Q2) Yes, filea and fileb were listed after typing ls.
+
+Q3) 0: Hello Pico from Brandon! 
+	1: Hello Pico from Brandon!
+	2: Hello Pico from Brandon!
+	3: Hello Pico from Brandon!
+	4: Hello Pico from Brandon!
+	
+Q4) You would use the cat command to display the contents of filec.
+	The command I typed was: cat filec
+	
+Q5) filea  fileb  filec  HelloPico.class  HelloPico.java
+
+Q6) total 20
+-rw------- 1 bshearr bshearr  16 Aug 28 20:50 filea
+-rw------- 1 bshearr bshearr  15 Aug 28 20:50 fileb
+-rw------- 1 bshearr bshearr  31 Aug 28 22:17 filec
+-rw------- 1 bshearr bshearr 693 Aug 28 20:56 HelloPico.class
+-rw------- 1 bshearr bshearr 184 Aug 28 20:56 HelloPico.java
+
+Q7) .  ..  filea  fileb  filec  HelloPico.class  HelloPico.java
+
+Q8) drwx------ 2 bshearr bshearr  90 Aug 28 22:17 .
+	drwx--x--x 5 bshearr bshearr  73 Aug 28 20:44 ..
+
+Q9)	THIS is filea.
+
+Q10) filed in is now named filex in the list of files.
+
+Q11) No, filea, fileb, filex are not shown.

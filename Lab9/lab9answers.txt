@@ -1,0 +1,42 @@
+Brandon Shearrer
+CS 1113 - 60968
+Lab 9 Answers
+
+Q1. We received an Array Index Out of Bounds Exception.
+
+
+Q2. usage: java ReverseCL2 [argument]
+
+
+Q3. Using the parseInt method I was able to change args to ints.
+
+
+Q4. import java.util.*;
+	
+	Scanner scan = new Scanner(System.in);
+	
+	System.out.println("Please enter string input > ");
+		
+	String s = scan.nextLine();
+
+
+Q5. java MyClass < input2.txt
+
+
+Q6. java MyClass < input.txt > output.txt
+
+
+Q7. Please Enter a string input > esreveR
+
+
+Q8. Please enter string input > esreveR
+	
+
+Q9. Scanner input = new Scanner(new File("fileName"));
+
+
+Q10. PrintWriter writer = new PrintWriter(new File("fileName"));
+	 
+	writer.println(n);
+	 
+	 	

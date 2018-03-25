@@ -1,0 +1,4 @@
+Fraklin,Benjamin,74,18
+Hamilton,Alexander,27,2
+Thatcher,Margaret,65,3
+Nixon,Richard,45,38
